@@ -1,0 +1,41 @@
+body{
+    background-color: #101418;
+    color: #EAECF0;
+}
+.head{
+    text-align: center;
+    flex-grow: 1;
+}
+
+
+h2{
+    text-align: center;
+}
+
+p{
+    font-size: x-large;
+}
+
+a:link{
+    color: skyblue;
+}
+
+a:visited{
+    color: blueviolet;
+}
+a:hover{
+ color: skyblue;
+ }
+a:active{
+    color: red;
+}
+img {
+    float: left;
+}
+#mintLogo{
+    float: right;
+    border-radius: 60px;
+}
+.support{
+    font-size: medium;
+}
